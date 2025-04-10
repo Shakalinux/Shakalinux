@@ -1,4 +1,4 @@
-## Henrique Rocha
+## 👨‍💻 Henrique Rocha
 
 Estudante de tecnologia com formação técnica e atualmente cursando ensino superior. Aqui compartilho meus projetos e aprendizes, explorando diferentes línguas, frameworks e ferramentas do mundo do desenvolvimento.
 
