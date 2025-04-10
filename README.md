@@ -1,10 +1,10 @@
-## ⁇  ⁇  ⁇  Henrique Rocha
+## ?????? Henrique Rocha
 
 Estudante de tecnologia com formação técnica e atualmente cursando ensino superior. Aqui compartilho meus projetos e aprendizes, explorando diferentes línguas, frameworks e ferramentas do mundo do desenvolvimento.
 
 ---
 
-### ⁇ ️ Tecnologias & Ferramentas
+### ?? ️ Tecnologias e Ferramentas
 
 <div estilo="exibição: flex; embrulho flexível: embrulhar; lacuna: 10px;">
   <img alt="Java" título="Java" largura="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -23,8 +23,8 @@ Estudante de tecnologia com formação técnica e atualmente cursando ensino sup
 ### 📊 Estatísticas do GitHub
 
 <div alinhar="esquerda">
-  <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=Shakalinux&mostrar_icons=true&tema=tokyonight&incluir_all_commits=true&localidade=pt-br" />
-  <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakalinux&tema=tokyonight&layout=compacto&custom_title=Tecnologias&langs_count=9" />
+  <img alta="180em" src="https://github-readme-stats.vercel.app/api?username=Shakalinux&mostrar_icons=true&tema=tokyonight&incluir_all_commits=true&localidade=pt-br" />
+  <img alta="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakalinux&tema=tokyonight&layout=compacto&custom_title=Tecnologias&langs_count=9" />
 </div>
 
 ---
