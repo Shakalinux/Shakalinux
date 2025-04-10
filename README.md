@@ -4,7 +4,7 @@ Estudante de tecnologia com formação técnica e atualmente cursando ensino sup
 
 ---
 
-### 🛠️  Tecnologias e Ferramentas
+### ?? Tecnologias e Ferramentas
 
 <div estilo="exibição: flex; embrulho flexível: embrulhar; lacuna: 10px;">
   <img alt="Java" título="Java" largura="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
