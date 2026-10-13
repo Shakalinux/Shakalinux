@@ -1,4 +1,4 @@
-## Henrique Rocha 
+## Vinicius Amorim
 
 Estudante de tecnologia com formação técnica e atualmente cursando ensino superior. Aqui compartilho meus projetos e aprendizados, explorando diferentes linguagens, frameworks e ferramentas do mundo do desenvolvimento.
 
@@ -31,6 +31,6 @@ Estudante de tecnologia com formação técnica e atualmente cursando ensino sup
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohhenriquerocha/)
-[![Email](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hrprocha3@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-fernandes-amorim-b851a2231)
+[![Email](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius.amorimf2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shakalinux)
