@@ -30,6 +30,5 @@ Estudante de tecnologia com formação técnica e atualmente cursando ensino sup
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-fernandes-amorim-b851a2231)
 [![Email](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius.amorimf2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shakalinux)
